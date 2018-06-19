@@ -11,13 +11,13 @@ npm install --save-dev gulp-handlebars
 
 ## VERSION MISMATCH ERROR?!
 
-Are you seeing this error when using pre-compliled templates?
+Are you seeing this error when using precompiled templates?
 
 ```
 Error: Template was precompiled with an older version of Handlebars
 ```
 
-If you're getting a version mismatch error when using pre-compliled templates, **install the handlebars version of your choice and pass it as [`options.handlebars`](#optionshandlebars)**, then include the appropriate runtime in your client-side application.
+If you're getting a version mismatch error when using precompiled templates, **install the handlebars version of your choice and pass it as [`options.handlebars`](#optionshandlebars)**, then include the appropriate runtime in your client-side application.
 
 Here's how you install your own version of handlebars:
 
